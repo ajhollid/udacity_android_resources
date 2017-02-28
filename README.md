@@ -1,6 +1,6 @@
-# udacity_android_resources
 
-**Android Studio Plugins**
+
+#Android Studio Plugins
 
 Many of these can be downloaded from Android Studio:  Preferences->Settings->Plugins->Browse Repositories
 
@@ -31,12 +31,12 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 [RemoveButterknife](https://github.com/u3shadow/RemoveButterKnife) - Removes all ButterKnife bindings from your app
 
 
-**Accessibility** 
+#Accessibility 
 
 [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor&amp;hl=en) - Tool that suggests accessibility improvements for Android apps 
 
 
-**Chrome Extensions**
+#Chrome Extensions
 
 [Android SDK Reference Search](https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin?hl=en) - Adds an 'ad' omnibox command and view source links for the Android SDK
 
@@ -57,7 +57,7 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm) - View and control Android device from your computer
 
 
-**Code Parsing/Generating**
+#Code Parsing/Generating
 
 [Convert XML or JSON to Java Pojo Classes](http://pojo.sodhanalibrary.com/) - Convert JSON data to POJO class
 
@@ -66,12 +66,12 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 [Parcelabler](http://www.parcelabler.com/) - Generate a class that implemetns Parcelable from your POJO class
 
 
-**Debugging**
+#Debugging
 [Leak Canary](https://github.com/square/leakcanary) - Useful library for tracking down memory leaks
 [Stetho](http://facebook.github.io/stetho/) - Debug bridge for Android applications, great for inspecting databases
 
 
-**Design/Prototyping**
+#Design/Prototyping
 
 
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Find your colors here!
@@ -110,19 +110,19 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 
 [Wireflow](https://play.google.com/store/apps/details?id=com.ludomade.blueprint&hl=en) Android app for prototyping UI
 
-**Emulators**
+#Emulators
 
 
 [Genymotion](https://www.genymotion.com/)
 
-**General Development Tools**
+#General Development Tools
 
 
 [ClipMenu](http://www.clipmenu.com/) - Mac only, clipboard history manager
 
 [WiFi ADB](https://play.google.com/store/apps/details?id=com.ttxapps.wifiadb&hl=en) - Debug over Wifi
 
-**Image Editing**
+#Image Editing
 
 
 [9-Patch-Resizer](https://github.com/redwarp/9-Patch-Resizer) - Automatically resizes and compresses images
@@ -139,7 +139,7 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 
 [Pngyu](http://nukesaq88.github.io/Pngyu/) - Optimize PNG files
 
-**Other**
+#Other
 
 
 [Android Resource Remover](https://github.com/KeepSafe/android-resource-remover) - Remove unused resources based on lint output
@@ -152,12 +152,12 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 
 [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Keep your git commits nice and organized
 
-**Shell**
+#Shell
 
 
 [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) - Super useful shell environment. Lots of Github short cuts.
 
-**Team Communication**
+#Team Communication
 
 
 [Slack](https://slack.com/)
@@ -166,14 +166,14 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 
 [UberConference](https://www.uberconference.com/) - Free Video/Voice conference for up to 10 people
 
-**Text Editors**
+#Text Editors
 
 
 [Atom](https://atom.io/) - Another good text editor
 
 [Sublime Text](https://www.sublimetext.com/) - By far my favorite text editor
 
-**Version Control**
+#Version Control
 
 
 [Bitbucket](https://bitbucket.org/)
@@ -184,7 +184,7 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 
 [Github](https://github.com/)
 
-**Zip/Compression Tools**
+#Zip/Compression Tools
 
 
 [7zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives
