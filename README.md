@@ -43,21 +43,37 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 **Design/Prototyping**
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Find your colors here!
 [Andriod Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Essential site for generating themes and assets
+
 [Draw.io](https://www.draw.io/)
+
 [Fluid UI](https://www.fluidui.com/) - Easily design interactive prototypes, wireframes or mockups for Android, iOS, web and desktop
+
 [Google Design Metrics](https://design.google.com/devices/)
+
 [InVision](https://www.invisionapp.com/)
+
 [Material Design Icon Library](https://design.google.com/icons/)
+
 [Material Pallette](https://www.materialpalette.com/) - Quickly generate material design color themes
+
 [Material UI](https://www.materialui.co/colors) - Material color picker
+
 [Moqups](https://moqups.com/) - Moqups is a streamlined and intuitive web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes
+
 [NinjaMock](https://ninjamock.com/)
+
 [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Color theme generator
+
 [Pencil Templates](https://code.google.com/archive/p/evoluspencil/downloads) - Templates for designing in Pencil
+
 [Pencil](http://pencil.evolus.vn/)
+
 [Pixate](http://www.pixate.com/)
+
 [Proto.io](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should
+
 [Sketch](https://www.sketchapp.com/) - Mac only
+
 [Wireflow](https://play.google.com/store/apps/details?id=com.ludomade.blueprint&hl=en) Android app for prototyping UI
 
 **Emulators**
@@ -65,22 +81,33 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 
 **General Development Tools**
 [ClipMenu](http://www.clipmenu.com/) - Mac only, clipboard history manager
+
 [WiFi ADB](https://play.google.com/store/apps/details?id=com.ttxapps.wifiadb&hl=en) - Debug over Wifi
 
 **Image Editing**
 [9-Patch-Resizer](https://github.com/redwarp/9-Patch-Resizer) - Automatically resizes and compresses images
+
 [GIMP Android XDPI](https://github.com/ncornette/gimp-android-xdpi) - Plugin for generating assets at different densities
+
 [GIMP](https://www.gimp.org/) - Open source image editing
+
 [Inkscape](https://inkscape.org/en/) - Open source vector image editing
+
 [Optipng](http://optipng.sourceforge.net/) - Optimize PNG files
+
 [PixelImator](http://www.pixelmator.com/mac/) - Mac only
+
 [Pngyu](http://nukesaq88.github.io/Pngyu/) - Optimize PNG files
 
 **Other**
 [Android Resource Remover](https://github.com/KeepSafe/android-resource-remover) - Remove unused resources based on lint output
+
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Get those forum posts formatted nicely :)
+
 [Material Design Icons](https://materialdesignicons.com/) - Scalable vector icons
+
 [SVG to Vector Drawable](http://inloop.github.io/svg2android/) - Convert SVG to Vector Drawable
+
 [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Keep your git commits nice and organized
 
 **Shell**
@@ -88,20 +115,27 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 
 **Team Communication**
 [Slack](https://slack.com/)
+
 [Talky.io](https://talky.io/)
+
 [UberConference](https://www.uberconference.com/) - Free Video/Voice conference for up to 10 people
 
 **Text Editors**
 [Atom](https://atom.io/) - Another good text editor
+
 [Sublime Text](https://www.sublimetext.com/) - By far my favorite text editor
 
 **Version Control**
 [Bitbucket](https://bitbucket.org/)
+
 [Git](https://git-scm.com/)
+
 [GitBox](http://www.gitboxapp.com/) - Mac only, GUI for managing projects under GIT
+
 [Github](https://github.com/)
 
 **Zip/Compressin Tools**
 [7zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives
+
 [PeaZip](www.peazip.org/) -  Open source archiver
 
