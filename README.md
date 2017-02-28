@@ -193,7 +193,7 @@ Many of these can be downloaded from Android Studio:  Preferences->Settings->Plu
 [PeaZip](www.peazip.org/) -  Open source archiver
 
 
-#Useul Libaries
+#Useful Libaries
 
 ##Camera
 
