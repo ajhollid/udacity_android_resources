@@ -1,6 +1,6 @@
 #Useful Tools for Android Developers
 
-##Android Studio Plugins - Many of these can be downloaded from Android Studio:  Preferences->Settings->Plugins->Browse Repositories
+###Android Studio Plugins - Many of these can be downloaded from Android Studio:  Preferences->Settings->Plugins->Browse Repositories
 
 - [ADB Idea](https://github.com/pbreault/adb-idea) - Quickly perform ADB operations like restarting app, clear app data, etc
 - [ADBWIFI](https://plugins.jetbrains.com/plugin/7856?pr=idea) - It is an Android Studio plugin for debugging your android app over Wi-Fi.
@@ -16,10 +16,10 @@
 - [Mirror](http://www.jimumirror.com/) - Mirror compiles incrementally and only sends deltas to the devices enabling much faster UI changes rather than rebuilding and reinstalling the full APK
 - [RemoveButterknife](https://github.com/u3shadow/RemoveButterKnife) - Removes all ButterKnife bindings from your app
 
-##Accessibility 
+###Accessibility 
 - [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor&amp;hl=en) - Tool that suggests accessibility improvements for Android apps 
 
-##Chrome Extensions
+###Chrome Extensions
 - [Android SDK Reference Search](https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin?hl=en) - Adds an 'ad' omnibox command and view source links for the Android SDK
 - [Codota](https://chrome.google.com/webstore/detail/codota/cnpdaoipdfbkpdbdpmceeejdaabiebcb?hl=en) - Viewer for Android and Java code snippets
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci) - Automatically adds repository size to GitHub's repository summary
@@ -30,16 +30,16 @@
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - API tool
 - [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm) - View and control Android device from your computer
 
-##Code Parsing/Generating
+###Code Parsing/Generating
 - [Convert XML or JSON to Java Pojo Classes](http://pojo.sodhanalibrary.com/) - Convert JSON data to POJO class
 - [jsonschema2pojo](http://www.jsonschema2pojo.org/) - Convert JSON data to POJO class
 - [Parcelabler](http://www.parcelabler.com/) - Generate a class that implemetns Parcelable from your POJO class
 
-##Debugging
+###Debugging
 - [Leak Canary](https://github.com/square/leakcanary) - Useful library for tracking down memory leaks
 - [Stetho](http://facebook.github.io/stetho/) - Debug bridge for Android applications, great for inspecting databases
 
-##Design/Prototyping
+###Design/Prototyping
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Find your colors here!
 - [Andriod Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Essential site for generating themes and assets
 - [Draw.io](https://www.draw.io/)
@@ -59,14 +59,14 @@
 - [Sketch](https://www.sketchapp.com/) - Mac only
 - [Wireflow](https://play.google.com/store/apps/details?id=com.ludomade.blueprint&hl=en) Android app for prototyping UI
 
-##Emulators
+###Emulators
 - [Genymotion](https://www.genymotion.com/)
 
-##General Development Tools
+###General Development Tools
 - [ClipMenu](http://www.clipmenu.com/) - Mac only, clipboard history manager
 - [WiFi ADB](https://play.google.com/store/apps/details?id=com.ttxapps.wifiadb&hl=en) - Debug over Wifi
 
-##Image Editing
+###Image Editing
 - [9-Patch-Resizer](https://github.com/redwarp/9-Patch-Resizer) - Automatically resizes and compresses images
 - [GIMP Android XDPI](https://github.com/ncornette/gimp-android-xdpi) - Plugin for generating assets at different densities
 - [GIMP](https://www.gimp.org/) - Open source image editing
@@ -75,33 +75,33 @@
 - [PixelImator](http://www.pixelmator.com/mac/) - Mac only
 - [Pngyu](http://nukesaq88.github.io/Pngyu/) - Optimize PNG files
 
-##Other
+###Other
 - [Android Resource Remover](https://github.com/KeepSafe/android-resource-remover) - Remove unused resources based on lint output
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Get those forum posts formatted nicely :)
 - [Material Design Icons](https://materialdesignicons.com/) - Scalable vector icons
 - [SVG to Vector Drawable](http://inloop.github.io/svg2android/) - Convert SVG to Vector Drawable
 - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Keep your git commits nice and organized
 
-##Shell
+###Shell
 - [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) - Super useful shell environment. Lots of Github short cuts.
 
 
-##Team Communication
+###Team Communication
 - [Slack](https://slack.com/)
 - [Talky.io](https://talky.io/)
 - [UberConference](https://www.uberconference.com/) - Free Video/Voice conference for up to 10 people
 
-##Text Editors
+###Text Editors
 - [Atom](https://atom.io/) - Another good text editor
 - [Sublime Text](https://www.sublimetext.com/) - By far my favorite text editor
 
-##Version Control
+###Version Control
 - [Bitbucket](https://bitbucket.org/)
 - [Git](https://git-scm.com/)
 - [GitBox](http://www.gitboxapp.com/) - Mac only, GUI for managing projects under GIT
 - [Github](https://github.com/)
 
-##Zip/Compressin Tools
+###Zip/Compressin Tools
 - [7zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives
 - [PeaZip](www.peazip.org/) -  Open source archiver
 
@@ -115,43 +115,43 @@
 
 #Useful Libraries for Android Developers
 
-##Camera
+###Camera
 - [ZXing](https://github.com/zxing/zxing) - Barcode and QR code scanner library
 
-##Communication Libraries
+###Communication Libraries
 - [Green Robot Event Bus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc
 - [Otto Event Bus](http://square.github.io/otto/) - Easily communicate with different parts of your app
 
-##Convenience
+###Convenience
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android Views
 - [Postman](https://github.com/Workday/postman) - Library for implementing Parcelable via annotations
 - [RetroLambda](https://github.com/evant/gradle-retrolambda) - Backport of lambda expressions to Java 6 and 7
 
-##Database Libraries
+###Database Libraries
 - [Provigen](https://github.com/TimotheeJeannin/ProviGen) - Generate content provider
 - [Realm](https://realm.io/) - Mobile platform and a replacement for SQLite & Core Data
 - [Schematic](https://github.com/SimonVT/schematic) - Generate content provider
 
-##Graphic Libraries
+###Graphic Libraries
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library
 - [GraphView](http://www.android-graphview.org/) - Open source graph plotting library
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view
 - [Picasso](http://square.github.io/picasso/) - Image downloading/caching library
 
-##Library Compilations
+###Library Compilations
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Collection of awesome Android UI libraries!
 - [Must Have Libraries](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries) - List of libraries from Codepath
 - [The Android Arsenal](https://android-arsenal.com/) - Android Arsenal:  Huge searchable list of Android libraries
 
-##Networking Libraries
+###Networking Libraries
 - [GSON](https://github.com/google/gson) - Convert to JSON and back easily
 - [OkHttp](http://square.github.io/okhttp/) - HTTP Client for Android
 - [Retrofit](http://square.github.io/retrofit/) - Type safe HTTP Client for Android
 
-##Testing
+###Testing
 - [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/setup/) - Android Testing Library
 - [LeakCanary](https://github.com/square/leakcanary) - Track down memory leaks
 - [Roboelectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 
-##Wear Libraries
+###Wear Libraries
 - [Teleport](https://github.com/Mariuxtheone/Teleport) 
