@@ -120,12 +120,13 @@
 
 ###Communication Libraries
 - [Green Robot Event Bus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc
-- [Otto Event Bus](http://square.github.io/otto/) - Easily communicate with different parts of your app
+- [Otto Event Bus](http://square.github.io/otto/) - Easily communicate with different parts of your app  **Note this library is now deprecated**
 
 ###Convenience
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android Views
 - [Postman](https://github.com/Workday/postman) - Library for implementing Parcelable via annotations
 - [RetroLambda](https://github.com/evant/gradle-retrolambda) - Backport of lambda expressions to Java 6 and 7
+- [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 
 ###Database Libraries
 - [Provigen](https://github.com/TimotheeJeannin/ProviGen) - Generate content provider
@@ -133,10 +134,12 @@
 - [Schematic](https://github.com/SimonVT/schematic) - Generate content provider
 
 ###Graphic Libraries
+- [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library
 - [GraphView](http://www.android-graphview.org/) - Open source graph plotting library
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view
 - [Picasso](http://square.github.io/picasso/) - Image downloading/caching library
+- [RoadRunner](https://github.com/glomadrian/RoadRunner) - Road Runner is a library for android which allow you to make your own loading animation using a SVG image
 
 ###Library Compilations
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Collection of awesome Android UI libraries!
