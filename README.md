@@ -56,6 +56,7 @@
 - [Pencil Templates](https://code.google.com/archive/p/evoluspencil/downloads) - Templates for designing in Pencil
 - [Pencil](http://pencil.evolus.vn/)
 - [Pixate](http://www.pixate.com/)
+- [Printable Templates for Android/iOS](https://stanfy.com/blog/iphone-ipad-ios-android-sketching-templates/) - Awesome printable templates!
 - [Proto.io](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should
 - [Sketch](https://www.sketchapp.com/) - Mac only
 - [Wireflow](https://play.google.com/store/apps/details?id=com.ludomade.blueprint&hl=en) Android app for prototyping UI
