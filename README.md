@@ -127,6 +127,7 @@
 ### Convenience
 - [Auto Value](https://github.com/google/auto/blob/master/value/userguide/index.md) - AutoValue provides an easier way to create immutable value classes
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android Views
+- [Parceler](https://github.com/johncarl81/parceler) - Parceler is a code generation library that generates the Android Parcelable boilerplate source code
 - [Postman](https://github.com/Workday/postman) - Library for implementing Parcelable via annotations
 - [RetroLambda](https://github.com/evant/gradle-retrolambda) - Backport of lambda expressions to Java 6 and 7
 - [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
