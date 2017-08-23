@@ -77,6 +77,11 @@
 - [PixelImator](http://www.pixelmator.com/mac/) - Mac only
 - [Pngyu](http://nukesaq88.github.io/Pngyu/) - Optimize PNG files
 
+### Video
+
+- [Exoplayer](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet. 
+   Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
+   
 ### Other
 - [Android Resource Remover](https://github.com/KeepSafe/android-resource-remover) - Remove unused resources based on lint output
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Get those forum posts formatted nicely :)
