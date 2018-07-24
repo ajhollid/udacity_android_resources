@@ -88,6 +88,7 @@
 - [Material Design Icons](https://materialdesignicons.com/) - Scalable vector icons
 - [SVG to Vector Drawable](http://inloop.github.io/svg2android/) - Convert SVG to Vector Drawable
 - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Keep your git commits nice and organized
+- [Using Trello for Agile Software Development: The Complete Guide](http://buildbettersoftware.com/trello-for-software-development)
 
 ### Shell
 - [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) - Super useful shell environment. Lots of Github short cuts.
